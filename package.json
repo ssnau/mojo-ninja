@@ -1,0 +1,16 @@
+{
+  "name": "mojo-ninja",
+  "version": "0.0.1",
+  "description": "a simple mojo container on Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xijin",
+  "email": "xijliu@microstrategy.com",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "~1.2.0",
+    "express": "~4.2.0"
+  }
+}
