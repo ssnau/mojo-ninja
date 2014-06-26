@@ -3,11 +3,19 @@ Mojo Ninja
 
 Mojo Ninja is a super simple mojo playground.
 
-All you need to do is to copy your BIWebApp `javascript` folder to the root of this project.
+All you need to do is to copy your BIWebApp `javascript` folder and `images` folder to the root of this project.
+
+
+##Quick Start
+
+```
+npm install
+node index.js
+```
 
 Write down your code in index.html as:
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -26,7 +34,7 @@ Write down your code in index.html as:
 
 You will get the page as below once you hit the server:
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
